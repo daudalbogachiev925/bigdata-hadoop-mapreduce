@@ -1,0 +1,5 @@
+192.168.1.1 - - [01/Jan/2024] "GET /index.html"
+192.168.1.2 - - [01/Jan/2024] "GET /about.html"
+192.168.1.1 - - [01/Jan/2024] "GET /contact.html"
+192.168.1.3 - - [01/Jan/2024] "GET /index.html"
+192.168.1.2 - - [01/Jan/2024] "GET /index.html"
